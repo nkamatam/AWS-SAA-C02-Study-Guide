@@ -185,7 +185,7 @@ IAM offers a centralized hub of control within AWS and integrates with all other
 
 ![Screen Shot 2020-06-06 at 10 49 48 PM](https://user-images.githubusercontent.com/13093517/83959193-11533980-a848-11ea-9d03-d8133e0aaa86.png)
 
-IAM Policies are separated from the other entities above because they are not an IAM Identity. Instead, they are attached to IAM Identities so that the IAM Identity in question can perform its neccessary function.
+IAM Policies are separated from the other entities above because they are not an IAM Identity. Instead, they are attached to IAM Identities so that the IAM Identity in question can perform its necessary function.
 
 ### IAM Key Details:
 
@@ -1752,5 +1752,5 @@ The following section includes services, features, and techniques that may appea
   - Receive a notification whenever a resource is created, modified, or deleted.     
   - View relationships between resources. For example, you might want to find all resources that use a particular security group.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg0MzUyMzBdfQ==
+eyJoaXN0b3J5IjpbLTE5NTE2ODM4MV19
 -->
