@@ -177,7 +177,7 @@ IAM offers a centralized hub of control within AWS and integrates with all other
 
 **Users** - any individual end user such as an employee, system architect, CTO, etc.
 
-**Groups** - any collection of similar people with shared permissions such as system administrators, HR employees, finance teams, etc. Each user within their specified group will inherit the permissions set for the group.
+**Groups** - any collection of similar people with shared permissions such as system administrators, HR employees, finance teams, etc. Each user within their specified group will inherit the permissions set for the group. A group of physical people.
 
 **Roles** - any software service that needs to be granted permissions to do its job, e.g- AWS Lambda needing write permissions to S3 or a fleet of EC2 instances needing read permissions from a RDS MySQL database.
 
@@ -1751,3 +1751,6 @@ The following section includes services, features, and techniques that may appea
   - Retrieve historical configurations of one or more resources. ·     
   - Receive a notification whenever a resource is created, modified, or deleted.     
   - View relationships between resources. For example, you might want to find all resources that use a particular security group.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDIxMDg0NDZdfQ==
+-->
